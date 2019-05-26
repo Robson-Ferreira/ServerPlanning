@@ -1,5 +1,5 @@
 {
-    "name": "ServerPlanning",
+    "name": "serverplanning",
     "description": "A simple labrary that calculates the number of the servers according to the server especifications",
     "authors": [
         {
