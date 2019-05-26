@@ -1,0 +1,22 @@
+{
+    "name": "ServerPlanning",
+    "description": "A simple labrary that calculates the number of the servers according to the server especifications",
+    "authors": [
+        {
+            "name": "Robson",
+            "email": "robson-durval@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ServerPlanning\\": "src/"
+        }
+    },
+    "require": {
+    	"php": "^7.0",
+        "phpmetrics/phpmetrics": "^2.4"
+    },
+    "require-dev": {
+	    "phpunit/phpunit": "^7"
+  	}
+}
